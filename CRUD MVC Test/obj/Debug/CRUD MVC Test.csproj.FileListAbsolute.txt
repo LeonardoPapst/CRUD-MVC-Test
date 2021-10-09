@@ -1,0 +1,91 @@
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\CRUD MVC Test.dll.config
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\CRUD MVC Test.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\CRUD MVC Test.pdb
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csc.exe
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csc.exe.config
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csc.rsp
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csi.exe
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csi.exe.config
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\csi.rsp
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.AppContext.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Console.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Net.Http.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Net.Sockets.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\vbc.exe
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\vbc.exe.config
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\vbc.rsp
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Antlr3.Runtime.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\EntityFramework.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\EntityFramework.SqlServer.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Newtonsoft.Json.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Helpers.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Mvc.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Optimization.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Razor.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\WebGrease.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\EntityFramework.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\EntityFramework.SqlServer.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Helpers.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Mvc.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Optimization.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.Razor.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Newtonsoft.Json.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Antlr3.Runtime.pdb
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.Razor.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD_MVC_Test.Migrations.Initial.resources
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD MVC Test.csproj.GenerateResource.cache
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD MVC Test.csproj.CoreCompileInputs.cache
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD MVC Test.csproj.CopyComplete
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD MVC Test.dll
+D:\Projetos\Pessoal\CRUD MVC 5\CRUD MVC Test\CRUD MVC Test\obj\Debug\CRUD MVC Test.pdb
